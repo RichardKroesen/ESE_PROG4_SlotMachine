@@ -1,3 +1,6 @@
+# NOTE: 
+This repo is under WIP, and is currently just a backup of the project. So it could be a mess, the release how ever works fine. Also the code quality is very low, so please don't judge, I'm going to refactor and improve. If my priority list allows XD  
+
 # Programming 4 Introduction C++ & GUI
 ## Introduction
 This repository of my semester 4 programming class during Embedded Systems Engineering course from HAN University of Applied Sciences.
