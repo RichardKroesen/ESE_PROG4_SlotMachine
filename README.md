@@ -1,5 +1,5 @@
 # NOTE: 
-This repo is under WIP, and is currently just a backup of the project. So it could be a mess, the release how ever works fine. Also the code quality is very low, so please don't judge, I'm going to refactor and improve. If my priority list allows XD  
+This repo is under WIP, and is currently just a backup of the project. So it could be a mess, the release however works fine. Also the code quality is really low, so please don't judge it. I'm going to refactor, improve and expand some day. If my priority list allows XD
 
 # Programming 4 Introduction C++ & GUI
 ## Introduction
