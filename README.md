@@ -4,7 +4,11 @@ This repo is under WIP, and is currently just a backup of the project. So it cou
 # Programming 4 Introduction C++ & GUI
 
 # Demonstration
+Here is a gif demonstration of the current release version. 
+
 ![PROG4 - Demonstration](https://github.com/RichardKroesen/ESE_PROG4_SlotMachine/assets/116025382/580ef006-7a36-448d-846d-29bf60ce3687)
+
+The demo shows: Adding balance, Making a Gamble by taking Spin, Payout Balance, Enable Admin Mode to show system log and see the saved text log.
 
 ## Introduction
 This repository of my semester 4 programming class during Embedded Systems Engineering course from HAN University of Applied Sciences.
