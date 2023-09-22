@@ -2,6 +2,10 @@
 This repo is under WIP, and is currently just a backup of the project. So it could be a mess, the release however works fine. Also the code quality is really low, so please don't judge it. I'm going to refactor, improve and expand some day. If my priority list allows XD
 
 # Programming 4 Introduction C++ & GUI
+
+# Demonstration
+![PROG4 - Demonstration](https://github.com/RichardKroesen/ESE_PROG4_SlotMachine/assets/116025382/580ef006-7a36-448d-846d-29bf60ce3687)
+
 ## Introduction
 This repository of my semester 4 programming class during Embedded Systems Engineering course from HAN University of Applied Sciences.
 
